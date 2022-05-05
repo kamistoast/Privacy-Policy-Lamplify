@@ -2,7 +2,7 @@
 
 # 🔒 Privacy Policy
 
-Lamplify is owned and maintained by me, Nico Amann ("Klaus Amann"). This app is a fun project to hone my programming skills and dive deeper in Apples SwiftUI.
+Lamplify is owned and maintained by me, Nico Amann ("Klaus Amann"). This app is a fun project to hone my programming skills and dive deeper into Apple's SwiftUI.
 
 All of the content you might add to Lamplify will always remain private. None of your data or personal information is collected in any way or manner.
 
