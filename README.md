@@ -1,4 +1,4 @@
-# 🔒 Privacy Policy - Lamplify
+# 🔒 Privacy Policy
 ![logo](https://user-images.githubusercontent.com/100153720/166951342-ef26d7d8-8b73-4a22-88a1-14b2d7ffeef6.png)
 
 
