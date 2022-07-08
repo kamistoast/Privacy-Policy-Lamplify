@@ -8,4 +8,4 @@ Any content you might add to Lamplify will always stay private. None of your dat
 
 If you allow Lamplify access to the microphone, you can use the 'party function' (🎉, upper right corner of the app). This allows you to detect the noise level of your environment and turn it into colors. While accessing the microphone, Lamplify will record your audio. After quitting the 'party function' Lamplify will immediately delete all recorded audio files and the microphone will no longer be accessed. Apple indicates microphone access with an orange dot in the right corner of your device.
 
-Lamplify does use a third-party framework (AlexRoar/FoggyColors) under a MIT License. This framework doesn't collect your data or personal information in any manner. Its only purpose is visual.
+Lamplify does use a third-party framework (Lakr233/Colorful) under a MIT License. This framework doesn't collect your data or personal information in any manner. Its only purpose is visual.
